@@ -98,10 +98,6 @@ ggplot2, SAS, SPSS, Minitab, Power BI, Tableau, and Microsoft Excel
 
 ## Education
 
-- **M.S. in Applied Statistics**  
-  Concentration: Machine Learning and Data Science  
-  Georgia State University — Expected May 2028
-
 - **M.S. in Statistics**  
   The University of Akron — May 2026
 
