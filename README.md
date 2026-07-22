@@ -7,7 +7,7 @@ developing reliable, interpretable, and reproducible machine-learning methods
 for high-dimensional cancer and biomedical data.
 
 I earned an M.S. in Statistics from The University of Akron, where I served as
-a Graduate Teaching Assistant. Beginning in Fall 2026.
+a Graduate Teaching Assistant.
 
 ## Research Focus
 
