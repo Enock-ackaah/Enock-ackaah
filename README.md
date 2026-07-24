@@ -7,9 +7,7 @@ developing reliable, interpretable, and reproducible machine-learning methods
 for high-dimensional cancer and biomedical data.
 
 I earned an M.S. in Statistics from The University of Akron, where I served as
-a Graduate Teaching Assistant. I will begin an M.S. in Applied Statistics with
-a concentration in Machine Learning and Data Science at Georgia State
-University in Fall 2026.
+a Graduate Teaching Assistant.
 
 My long-term research goal is to develop human-supervised explainable AI
 methods and statistical reliability-auditing frameworks for high-dimensional,
@@ -117,9 +115,6 @@ reproducibility auditing
 matplotlib, ggplot2, SAS, SPSS, Minitab, Power BI, Tableau, and Microsoft Excel
 
 ## Education
-
-- **M.S. in Applied Statistics — Machine Learning and Data Science**  
-  Georgia State University — Expected May 2028
 
 - **M.S. in Statistics**  
   The University of Akron — May 2026
