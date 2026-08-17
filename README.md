@@ -337,7 +337,6 @@ Expected May 2028
 ### The University of Akron
 **M.S. in Statistics**  
 May 2026  
-
 Research Advisor: Professor Sujay Datta
 
 ### University of Cape Coast
